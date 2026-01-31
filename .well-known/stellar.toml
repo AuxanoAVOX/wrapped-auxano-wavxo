@@ -1,0 +1,26 @@
+wrapped-auxano-wavxo/
+  .well-known/
+    stellar.toml
+  assets/
+    WAVXO.png
+  README.md
+  
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+VERSION="2.0.0"
+
+ACCOUNTS=[
+  "GB4E45WIBUGCFXL6TTAOZU5L2FGH4VIM3KD2PYMPKAQN45QPBLBQZBCZ"
+]
+
+[DOCUMENTATION]
+ORG_NAME="Auxano"
+ORG_URL="https://github.com/AuxanoAVOX"
+ORG_DESCRIPTION="Auxano ecosystem assets."
+
+[[CURRENCIES]]
+code="WAVXO"
+issuer="GB4E45WIBUGCFXL6TTAOZU5L2FGH4VIM3KD2PYMPKAQN45QPBLBQZBCZ"
+display_decimals=7
+name="Wrapped Auxano"
+desc="WAVXO is the Stellar Classic wrapped representation of AVXO."
+image="https://raw.githubusercontent.com/AuxanoAVOX/wrapped-auxano-wavxo/main/assets/WAVXO.png"
