@@ -66,3 +66,34 @@ Future protocol development will enable periodic redemption windows where holder
 This will make the locked 55B AVXO supply accessible only through WAVXO pathways.
 
 Redemption logic will be implemented in upcoming ecosystem developments.
+
+---
+
+## Asset Metadata
+
+Issuer: GB4E45WIBUGCFXL6TTAOZU5L2FGH4VIM3KD2PYMPKAQN45QPBLBQZBCZ
+Asset Code: WAVXO
+Decimals: 7
+
+---
+
+## Status
+
+WAVXO is live and issued on Stellar Classic.
+
+Further ecosystem layers are under active development.
+
+---
+
+## Auxano Ecosystem
+
+WAVXO is part of the broader Auxano architecture:
+
+- AVXO (Soroban root)
+- WAVXO (Classic wrapper)
+- AVXO Vault + Redemption Protocol (upcoming)
+
+---
+
+**WAVXO has no separate inflation, minting, or expansion path.  
+It exists solely as the wrapped access rail for AVXO.**
